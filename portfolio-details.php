@@ -69,7 +69,7 @@
                 echo '<h3> ' .$row["proj_name"] . '</h3>';
                 echo '<ul>';
                 echo    '<li>Project using: <b>' . $row["proj_lang"] . '</b></li>';
-                echo    '<li><strong>Project URL</strong>: <a href="'.$row["proj_web"] .'">' .$row["proj_web"] .'</a></li>';
+                echo    '<li><strong>Project URL</strong>: <a href="'.$row["proj_web"] .'" target="_blank">' .$row["proj_web"] .'</a></li>';
                 echo '</ul>';
 
               ?>
