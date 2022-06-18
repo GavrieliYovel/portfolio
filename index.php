@@ -93,7 +93,7 @@
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-diamond"></i> <strong>Age:</strong> <span>23</span></li>
+                  <li><i class="bi bi-diamond"></i> <strong>Age:</strong> <span>24</span></li>
                   <li><i class="bi bi-diamond"></i> <strong>Email:</strong> <span>yovgav6@gmail.com</span></li>
                   <li><i class="bi bi-diamond"></i> <strong>Freelance:</strong> <span>Available</span></li>
                 </ul>
@@ -254,7 +254,7 @@
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>yovgav6@gmail.com_create_guid</p>
+                <p>yovgav6@gmail.com</p>
               </div>
 
               <div class="phone">
